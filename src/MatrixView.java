@@ -17,9 +17,8 @@ public class MatrixView {
 
     }
 
-    public
-
-    class ExitableJFrame extends JFrame {
+    @SuppressWarnings("serial")
+    public class ExitableJFrame extends JFrame {
 
         public ExitableJFrame(){
 
